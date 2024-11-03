@@ -29,10 +29,12 @@ Welcome to the **Guess the Number** game! Try to guess the number I'm thinking o
     }
 </script>
 ---
+
 ## Instructions
 
 1. Enter your guess in the input box.
 2. Click the "Guess!" button to submit.
 3. Read the feedback to refine your next guess.
+
 ---
 
