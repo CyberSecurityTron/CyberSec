@@ -1,10 +1,3 @@
----
-layout: default
-title: Guess the Number Game
----
-
-# Guess the Number Game
-
 Welcome to the **Guess the Number** game! Try to guess the number I'm thinking of between 1 and 100.
 
 <div>
