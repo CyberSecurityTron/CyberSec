@@ -1,4 +1,13 @@
+---
+## Instructions
+
+1. Enter your guess in the input box.
+2. Click the "Guess!" button to submit.
+3. Read the feedback to refine your next guess.
+---
+### Play
 Welcome to the **Guess the Number** game! Try to guess the number I'm thinking of between 1 and 100.
+---
 
 <div>
     <input type="number" id="userGuess" placeholder="Enter your guess" min="1" max="100">
@@ -28,10 +37,4 @@ Welcome to the **Guess the Number** game! Try to guess the number I'm thinking o
     }
 </script>
 
----
 
-## Instructions
-
-1. Enter your guess in the input box.
-2. Click the "Guess!" button to submit.
-3. Read the feedback to refine your next guess.
